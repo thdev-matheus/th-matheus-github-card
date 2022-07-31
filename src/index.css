@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: 0;
+  box-shadow: 0 0 0 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu";
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
